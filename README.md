@@ -1,0 +1,1 @@
+Copy data from Azure Blob storage to a database in Azure SQL Database by using Azure Data Factory
