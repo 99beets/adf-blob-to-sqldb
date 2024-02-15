@@ -1,0 +1,9 @@
+{
+	"name": "adf-blob-to-sqldb-99beets",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8efff640-a938-4004-9275-aa72bbd7503d",
+		"tenantId": "32b55163-ab10-4932-8dfa-a5eab7bfcc80"
+	}
+}
