@@ -2,7 +2,7 @@
 	"name": "RunEveryMinute",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipelines": [
 			{
 				"pipelineReference": {
@@ -17,7 +17,7 @@
 				"frequency": "Minute",
 				"interval": 1,
 				"startTime": "2024-02-16T14:49:00",
-				"endTime": "2024-02-17T14:51:00",
+				"endTime": "2024-02-16T14:51:00",
 				"timeZone": "GMT Standard Time"
 			}
 		}
